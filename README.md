@@ -2,15 +2,15 @@
 
 ## Overview
 
-BankApp is a tool created with Java Swing, which, once a user has entered a pin number and the associated last name, explores some basic features associated with mobile banking such as transferring funds between two accounts and viewing current balance. All account information is stored in a SQL database. Key features include:
+Created with Java Swing, BankApp is a tool created to explore some of the basic features associated with mobile banking and accessing databases such transferring funds between two accounts and viewing account information.
 
-    1. A login page that takes a pin number and customer last name as inputs
+### Login/Logout
 
-    2. A dashboard to view current balance, some basic account information 
-       and navigation to other features
+![BankApp Login Demo](img/loginDemo.gif)
 
-    3. A transfer interface to facilitate transfer of funds between current account 
-       and another account stored in the database, so long as funds are avaliable
+### Transfer
+
+![BankApp Transfer Demo](img/transferDemo.gif)
 
 ## Dependencies
 
