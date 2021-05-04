@@ -6,10 +6,11 @@ BankApp is a tool which, once a user has entered a pin number and the last name 
 
     1. A login page that takes a pin number and customer last name as inputs
 
-    2. A dashboard to view current balance, some basic account information and navigation to other features
+    2. A dashboard to view current balance, some basic account information 
+       and navigation to other features
 
-    3. A transfer interface to facilitate transfer of funds between current account and another account stored in the database, 
-       so long as funds are avaliable
+    3. A transfer interface to facilitate transfer of funds between current account 
+       and another account stored in the database, so long as funds are avaliable
 
 ## Dependencies
 
